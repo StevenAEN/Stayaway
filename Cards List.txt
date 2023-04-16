@@ -1,0 +1,104 @@
+CONTAGION CARDS
+These cards cannot be played or revealed to the other players
+(unless required by a card effect).
+The Thing - You are "The Thing" and your goal is to infect or
+destroy the Humans. You CANNOT discard or exchange this
+card, even if a card effect asks you to.
+Infected! - If you draw this card you are not Infected and you can
+discard it at your discretion. But remember: if anyone catches
+you with this card they will think that you are Infected!
+If you are a Human, you can never give it to another player!
+If another player passes "Infected!" to you (only The Thing can do
+that), you are Infected and you can give other "Infected!" cards
+to The Thing (only). But remember that you must always keep
+at least one "Infected!" card, and you may NEVER discard or
+exchange this card, even if a card effect asks you to.
+ACTION CARDS
+You can only play these cards during your turn, never as a response
+to another card. They must be discarded after use.
+Flamethrower - This is the only card that can eliminate an
+adjacent player.
+8
+Analysis - If you play this card on an adjacent player, he must
+show you all the cards in his hand.
+Axe - You can play this card on yourself or an adjacent player
+to remove a "Barred Door" or "Quarantine" card affecting that
+player.
+Suspicious - Choose one random card from an adjacent player
+and look at it, then return it.
+Whiskey - Show all your cards to all the players. This card can
+only be played on yourself.
+Resolute - Draw three STAY AWAY! cards, take one into your
+hand and discard the others. Then, play one card or discard one.
+You may play another "Resolute" card in the same turn. If there
+are PANIC! cards at the top of the deck, you must discard them
+without looking at them, until there are three STAY AWAY! cards
+to choose from.
+Watch Your Back - Reverses the order of play. So, if play was
+passing to the left, it now passes to the right. This affects both the
+turn order and the exchange of cards.
+Change Places! - Physically exchange your place at the table
+with a player next to you (unless you are blocked by an obstacle,
+such as "Quarantine" or "Barred Door"). Take your hand of cards
+with you when you change places. From now on, your place
+in turn order changes and you will exchange cards with your
+"new" neighbors.
+You’d Better Run! - Physically exchange your place at the table
+with any player who is not under the effects of "Quarantine",
+ignoring any "Barred Door" cards on the table. Take your hand
+of cards with you when you change places. From now on, your
+place in turn order changes and you will exchange cards with
+your "new" neighbors.
+Seduction - Exchange one card with any player who is not in
+Quarantine, then your turn ends.
+DEFENSE CARDS
+These cards can only be played in response to an action taken
+by another player or a PANIC! Card effect, and are discarded after
+use. After playing a Defense Card, you must immediately draw a
+replacement from the deck. If there are PANIC! cards on top of the
+deck, you must discard them without looking at them, until you
+draw one STAY AWAY! card to add to your hand.
+Scary - You can only play this card in response to a card
+9
+exchange offer. Refuse a card exchange requested by any player
+or card effect. Look at the refused card, then return it.
+I’m Comfortable - You can only play this card in response to
+a "Change Places!" or "You’d Better Run!" card. It cancels the
+effects of that card.
+No Thanks! - You can only play this card in response to a card
+exchange offer. Refuse a card exchange requested by any player
+or card effect.
+Missed! - You can only play this card in response to a card
+exchange offer. Refuse a card exchange requested by any
+player or card effect. The player next to you (in turn order) must
+exchange cards instead of you. If there are "obstacles" in the way
+(such as a "Barred Door" or "Quarantine"), no exchange takes
+place. The player next to the one who started the exchange takes
+the next turn.
+No Barbecue! - You can only play this card in response to a
+"Flamethrower" card to avoid being eliminated from the game.
+OBSTACLE CARDS
+These cards let you isolate yourself or another player. They remain
+in the game until removed by another card.
+Quarantine - You may play this card on yourself or an adjacent
+player. For the next three rounds, the player "in Quarantine"
+can no longer exchange cards, play STAY AWAY! cards, or be the
+target of any STAY AWAY! cards played by other players.
+If you are in Quarantine, you still draw a card each turn. If you
+draw a STAY AWAY! card, add it to your hand, then discard one
+card (you may not play any cards). If you draw a PANIC! card, you
+must play it immediately, as normal.
+In either case, your turn ends without exchanging cards. Other
+players also may not exchange cards with you during their turns.
+A "Quarantine" card can be removed and discarded before three
+rounds pass by the play of an "Axe" card or the effects of some
+PANIC! cards.
+Barred Door - You may play this card on the table between
+you and an adjacent player. The two of you can no longer take
+actions that target each other (playing cards, exchanging cards,
+and changing places). It remains face up between you and the
+chosen player until it is removed by an "Axe" card or a PANIC!
+card effect.
+If players change places because of another card effect, the
+"Barred Door" remains in its original position on the table (the
+players affected by it may change as a result).
